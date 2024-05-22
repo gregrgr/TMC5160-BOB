@@ -1,1 +1,3 @@
-# TMC5160-BOB
+# [TMC5160-BOB](https://www.analog.com/en/resources/evaluation-hardware-and-software/evaluation-boards-kits/tmc5160-bob.html#eb-overview)
+## Product Details
+The TMC5160 breakout board is a development board with the dedicated TMC5160 chip. It is designed to give users the chance to rapidly prototype their applications - making it possible to immediately check how the motor performs with TMC chips while developing the application's software.
