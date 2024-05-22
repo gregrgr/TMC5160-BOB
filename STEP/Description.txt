@@ -1,0 +1,28 @@
+TMC5160 Breakout Board V1.2
+
+Link to CAD models:
+https://grabcad.com/library/tmc5160-breakout-board-v1-2-1
+
+Nice stepper driver and controller.
+You can connect an ABN encoder to it for closed loop feedback.
+(Basically you can connect it via single ended wiring versus differential wiring)
+The link below will explain the difference in the answers section:
+https://arduino.stackexchange.com/questions/68166/undocumented-industrial-servo-with-8-wire-encoder-how-to-read-this-encoder/85109#85109
+
+This encoder uses differential wiring but you can still connect it to the board by connecting the ABZ connections:
+https://grabcad.com/library/38-mm-od-6-mm-shaft-incremental-optical-rotary-encoder-1
+
+Information about absolute vs incremental encoders:
+https://realpars.com/absolute-vs-incremental-encoder/
+
+Manufacturer site:
+https://www.trinamic.com/products/integrated-circuits/details/tmc5160/
+
+Datasheet and calculation sheet link:
+https://www.trinamic.com/products/integrated-circuits/details/tmc5160/#downloads-3
+
+Buy links:
+https://www.digikey.com/en/products/detail/trinamic-motion-control-gmbh/TMC5160-BOB/8440397
+https://www.aliexpress.us/w/wholesale-tmc5160-bob.html?spm=a2g0o.productlist.search.0
+
+#CAD #SolidWorks #3dmodel #motorcontrol #steppermotorcontrol #feedback #closedloop
